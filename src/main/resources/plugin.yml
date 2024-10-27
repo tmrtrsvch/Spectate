@@ -1,0 +1,11 @@
+name: Spectate
+version: v1.0
+main: ch.tmrtrsv.spectate.Spectate
+api-version: 1.16
+authors: [ Тимур ]
+website: t.me/tmrtrsvch
+commands:
+  spec:
+    aliases: [spectate]
+  unspec:
+    aliases: [unspectate]
